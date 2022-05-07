@@ -23,16 +23,16 @@
         24
     ],
     "main_plot_limits": [
-        5,
-        15
+        6,
+        16
     ],
     "count_ylim": [
         0.1,
         1000
     ],
     "av_ylim": [
-        5e-07,
-        0.07
+        -1e-02,
+        6e-02
     ],
     "diff_plot_lims": [
         5.0,
